@@ -15,7 +15,7 @@ I design and build connected devices end to end: sensor acquisition, firmware, w
 |[Smart Classroom](https://github.com/RayenBenNejma/smart-classroom)|Real-time classroom monitoring (occupancy, temperature, humidity) with LSTM-based temperature prediction and automatic AC control|ESP32, BME280, PIR, RFID, Firebase, Flask, TensorFlow|
 |[STM32 Weather Station](https://github.com/RayenBenNejma/weather-station-stm32)|Environmental data acquisition over I2C, transmitted via UART to a live web dashboard|STM32 NUCLEO-L073RZ, C (HAL), BME680, Flask|
 |Connected Livestock Monitoring|Long-range tracking and abnormal-behavior detection for livestock|LoRa, GSM, ESP32, Raspberry Pi 4, MQTT, Node-RED|
-|Navigation Aid for Visually Impaired People|Wearable system that detects obstacles in real time and alerts the user when one is within 40 cm (team project)|Raspberry Pi 4, Python, GPIO, PWM, 2x HC-SR04, 2 servo motors|
+|Blind Navigation Aid – Raspberry Pi 4|Wearable system that detects obstacles in real time and alerts the user when one is within 40 cm (team project)|Raspberry Pi 4, Python, GPIO, PWM, 2x HC-SR04, 2 servo motors|
 |Smart Chef (Cooking Assistant Chatbot)|Android app that generates a detailed recipe from the ingredients available in the fridge|Kotlin, SQL, REST API, Gemini API|
 |[ESP32 Sensor Library](https://github.com/RayenBenNejma/esp32-sensor-library)|Documented example code for common sensors on ESP32 and Arduino|C++, I2C, GPIO|
 
